@@ -12,18 +12,17 @@ intro blahblahblah
 
 Dark UX refers to user experiences that are intended to mislead or trick the user into doing something that is not in their best benefit. UXP2 defines five general strategies of Dark UX: Nagging, Obstruction, Sneaking, Interface Interference, and Forced Action.
 
-Nagging: Nagging involves offering options more than once, in a way that prevents the user from continuing normal use of the software until they respond. An example of this is the frequently repeated suggestion to sign up for iCloud on Apple devices. 
+* Nagging: Nagging involves offering options more than once, in a way that prevents the user from continuing normal use of the software until they respond. An example of this is the frequently repeated suggestion to sign up for iCloud on Apple devices. 
 
-Obstruction: Obstruction means that a specific action is intentionally more difficut than necessary. This is done in the hopes that the user will simply give up. A prime example of this is how difficult it is to delete an Amazon Prime account. It can take an obscene number of steps, often under ambiguous labels, to stop paying for the service or remove the account.
+* Obstruction: Obstruction means that a specific action is intentionally more difficut than necessary. This is done in the hopes that the user will simply give up. A prime example of this is how difficult it is to delete an Amazon Prime account. It can take an obscene number of steps, often under ambiguous labels, to stop paying for the service or remove the account.
 
-Sneaking: Sneaking covers any intent to hide or deny important information from the user. A common example of this is hidden fees which are often displayed in a tiny font, a less-noticable color, or in an unexpected location.
+* Sneaking: Sneaking covers any intent to hide or deny important information from the user. A common example of this is hidden fees which are often displayed in a tiny font, a less-noticable color, or in an unexpected location.
 
-Interface Interference: This involves strategically designing some interface elements to be more prominant than others, with the intent to mislead the user. This can be found in fullscreen ads, where there is a massive button to go to the relevant link, but the "x" button to close the ad is so tiny that you can barely click, especialy on a mobile device. Often you will miss the "x" and end up going to some 3rd party website.
+* Interface Interference: This involves strategically designing some interface elements to be more prominant than others, with the intent to mislead the user. This can be found in fullscreen ads, where there is a massive button to go to the relevant link, but the "x" button to close the ad is so tiny that you can barely click, especialy on a mobile device. Often you will miss the "x" and end up going to some 3rd party website.
 
-Forced Action: Forced Action means that the user is unable to continue until they select a given option. This could, for example, include the requirnment to sign up for a newsletter before accessing normal functionality of a website or program.
+* Forced Action: Forced Action means that the user is unable to continue until they select a given option. This could, for example, include the requirnment to sign up for a newsletter before accessing normal functionality of a website or program.
 
 It can be difficult to make ethical distinctions about Dark UX. Companies exist to make money, and many of them are providing users with free content and services. Therefore, there is nothing wrong with them attempting to persuade users with advertising and smart UX design. Ultimatley, these attampts become unethical "Dark" UX" patterns when the intent is to mislead the user into doing something they would not otherwise do if they knew what they were doing. 
-
 
 Learn more:
 
