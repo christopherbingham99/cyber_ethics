@@ -3,10 +3,35 @@ A blog post for BYU Cybersecurity Ethics, Law, and Leadership by Christopher Bin
 
 ![blahblahblah by Bing Image Creator](imgs/pcinspaceC.jpg)
 
+overall intro blahblahblahblah
+
 ## Companies
-intro
+intro blahblahblah
 
 ### Dark UX
+
+Dark UX refers to user experiences that are intended to mislead or trick the user into doing something that is not in their best benefit. UXP2 defines five general strategies of Dark UX: Nagging, Obstruction, Sneaking, Interface Interference, and Forced Action.
+
+Nagging: Nagging involves offering options more than once, in a way that prevents the user from continuing normal use of the software until they respond. An example of this is the frequently repeated suggestion to sign up for iCloud on Apple devices. 
+
+Obstruction: 
+
+Sneaking: 
+
+Interface Interference: 
+
+Forced Action: 
+
+where is the line between effective business and "dark ux"
+
+ethical implications - people, children, etc. Ethics != legal
+
+Learn more:
+
+[The dark side of UX Design](https://darkpatterns.uxp2.com/)
+
+[Shine a light on dark UX patterns to design websites clients trust](https://www.wix.com/studio/blog/dark-ux-patterns)
+
 
 ### Targeted/personlized advertizing
 
@@ -42,7 +67,7 @@ Learn more:
 
 
 ## Threat Actors (Non-governmental)
-intro
+intro blah blah blah
 
 ### phishing + human engineering
 
