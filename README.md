@@ -16,7 +16,7 @@ intro
 
 
 ## Governments
-intro
+intro blahblahblahblahblah
 
 ### Cyber-Physical
 
@@ -24,17 +24,13 @@ A cyber-physical attack is a computer-based attack that is intended to cause phy
 
 One of the most famous instances of a government cyber-physical attack is known as "Stuxnet," most likely created and deployed by the USA and Israel. Stuxnet specifically targeted hardware (SCADA) devices used in Iran's Natanz uranium enrichment facility. By tampering with these SCADA devices, the worm was able to destroy centrifuges in the plant.
 
-There are huge ethical implications surrounding the use of cyber-physical attacks by governments and militaries. Stuxnet had a presice military target, but things change when the target is civilian infrastructure such as a power grid or water source. An attack like that could cause a significant loss of innocent life. Another consideration to make before deploying such an attack is this: how confident are you that your target will be the only affected system? Even more important: Are you willing to put the attack and its related exploits out into the world where they could potentially be reused or cloned by another actor? Just like the decision to deploy a nuclear strike or any military operation, it is also important to consider the potential backlash from the target. What effect will it have on the people you are tasked with protecting? 
-
-Ethical implications
--it infected tons of computers, to no effect
--what about power ggrid, water, hospital? effect on civilians
-
- did it even help
+There are huge ethical implications surrounding the use of cyber-physical attacks by governments and militaries. Stuxnet had a presice military target, but things change when the target is civilian infrastructure such as a power grid or water source. An attack like that could cause a significant loss of innocent life. Another consideration to make before deploying such an attack is this: how confident are you that your target will be the only affected system? Even more important: sre you willing to put the attack and its related exploits out into the world where they could potentially be reused or cloned by another actor? Just like the decision to deploy a nuclear strike or any military operation, it is also important to consider the potential backlash from the target and what effect it will have on the people you are tasked with protecting? 
 
 Learn more:
 
 [Zero Days Documentary](https://youtu.be/SoRoMykmibE)
+
+[What Are Cyber-Physical Attacks?](https://www.sciencetimes.com/articles/32372/20210720/what-are-cyber-physical-attacks.htm)
 
 ### Spying/monitoring/collecting
 
