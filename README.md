@@ -18,14 +18,31 @@ intro
 ## Governments
 intro
 
+### Cyber-Physical
+
+A cyber-physical attack is a computer-based attack that is intended to cause physical damage. This is typically done by targeting electronic systems that control infrastructure such as power grids, hospitals, manufacturing facilities, and water sources.
+
+One of the most famous instances of a government cyber-physical attack is known as "Stuxnet," most likely created and deployed by the USA and Israel. Stuxnet specifically targeted hardware (SCADA) devices used in Iran's Natanz uranium enrichment facility. By tampering with these SCADA devices, the worm was able to destroy centrifuges in the plant.
+
+Ethical implications
+-it infected tons of computers, to no effect
+-what about power ggrid, water, hospital? effect on civilians
+- did it even help
+
+Learn more:
+
+[Zero Days Documentary](https://youtu.be/SoRoMykmibE)
+
 ### Spying/monitoring/collecting
 
-### Cyber physical
+
+
+
 
 ### regulations?
 
 
-## Attackers
+## Threat Actors (Non-governmental)
 intro
 
 ### phishing + human engineering
@@ -37,6 +54,10 @@ intro
 ### password strength
 
 ### Ransomware
+
+Also for individuals and small comanies
+
+[Cyberattack Forces a Shutdown of a Top U.S. Pipeline](https://www.nytimes.com/2021/05/08/us/politics/cyberattack-colonial-pipeline.html)
 
 ### Malware
 
