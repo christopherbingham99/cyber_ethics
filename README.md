@@ -74,7 +74,6 @@ Learn more:
 
 
 ## You
-intro
 
 ### Piracy
 
