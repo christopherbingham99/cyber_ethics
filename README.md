@@ -113,24 +113,13 @@ intro
 
 Digital piracy is the act of using, duplicating, or distributing digital content that is protected by copyright law. This includes music, videos, books, video games, phone apps, PC programs, etc. In most jurisdictions, including the United States, digital piracy is expressly illegal.
 
-While piracy is illegal, there is still a seperate discussion of ethics to be had. There are many people who would never steal physical items, but justify digital piracy. A college student may decide to watch movies illegally, becasue they can't afford to pay for them. A gamer may pirate retro games, because "they're no longer being sold." Ethics, however, is not about self-justification. Piracy has real world negative effects on the owners and creators of digital content, paying consumers, and entire industries and economies. 
+While piracy is illegal, there is still a seperate discussion of ethics to be had. There are many people who would never steal physical items, but justify digital piracy. A college student may decide to watch movies illegally, becasue they can't afford to pay for them. A gamer may pirate retro games, because "they're no longer being sold." Ethics, however, is not about self-justification. Piracy has real world negative effects on the owners and creators of digital content, paying consumers, and entire industries and economies. Fortunatley, today's internet is full of free, open source, and ad-supported digital content, providing a great alternative for those who cannot or are not willing to pay.
 
-
-
-SEE SECTION ON SELF JUSTIDICATION
-
-
-Illegal, but what about ethical? - the negative impact. Open sour e/ free/ ad alternatives today
-
-use/vs distribute
-
-instances like game boxes sold with roms on legit sites like amazon
-
-if tytou dont like something, consider taking action to change the law instead of breaking it
+Learn more:
 
 [Digital Piracy: Interpol](https://www.interpol.int/en/Crimes/Illicit-goods/Shop-safely/Digital-piracy)
 
-
+[The Economic Impacts of Counterfeiting and Piracy](https://iccwbo.org/news-publications/policies-reports/economic-impacts-counterfeiting-piracy-report-prepared-bascap-inta/)
 
 
 
