@@ -5,10 +5,11 @@ A blog post for BYU Cybersecurity Ethics, Law, and Leadership by Christopher Bin
 
 ![PC in space by Bing Image Creator](imgs/pcinspaceC.jpg)
 
-overall intro blahblahblahblah. Come back to see more topics added over time. These might not fit catergories perfectly, for example, an individual can do a cyber-physical and a government can do a ransomware.
+
+In this post, we'll discuss the Ethics involved in cyberspace for individuals, hackers, governments, and companies. The initial topics are Dark UX, Cyber-Physical Attacks, Ransomware, and Piracy. There is a link at the end of the page if you would like to submit corrections or suggestions. 
+
 
 ## Companies
-intro blahblahblah
 
 ### Dark UX
 
@@ -33,15 +34,9 @@ Learn more:
 [Shine a light on dark UX patterns to design websites clients trust](https://www.wix.com/studio/blog/dark-ux-patterns)
 
 
-### Targeted/personlized advertizing
-
-### Tracking + Data Collection
-
-### Leaks ( how they reposnf and transperncy and helpfulnwss)
 
 
 ## Governments
-intro blahblahblahblahblah
 
 ### Cyber-Physical
 
@@ -57,17 +52,8 @@ Learn more:
 
 [What Are Cyber-Physical Attacks?](https://www.sciencetimes.com/articles/32372/20210720/what-are-cyber-physical-attacks.htm)
 
-### Spying/monitoring/collecting
-
-
-
-
-
-### regulations?
-
 
 ## Threat Actors (Non-governmental)
-intro blah blah blah
 
 ### Ransomware
 
@@ -87,23 +73,6 @@ Learn more:
 
 [Cyberattack Forces a Shutdown of a Top U.S. Pipeline](https://www.nytimes.com/2021/05/08/us/politics/cyberattack-colonial-pipeline.html)
 
-### phishing + human engineering - where does ethics coem into this
-
-### scams? (maybe part of above)
-
-### hacking into companies who have your data
-
-### password strength
-
-
-
-### Malware
-
-### Cyber-physical? (or just mention brieffly in ransomware section, since detailed in gov part)
-
-### Hacktivism!
-
-
 
 
 ## You
@@ -122,20 +91,21 @@ Learn more:
 [The Economic Impacts of Counterfeiting and Piracy](https://iccwbo.org/news-publications/policies-reports/economic-impacts-counterfeiting-piracy-report-prepared-bascap-inta/)
 
 
+---
+---
+### Additional Topics: 
 
+* Personalized advertizing
+* Tracking & data Collection
+* Responding to Leaks
+* Government monitoring and data collection
+* Government regulations
+* Hacktivism
+* School & work - IP and plagurism
+* Forums & social media
+* Whistleblowing
 
-At school + work - IP and plagurism
-forums/social media - President Nelson's suggested principles 
+---
+---
 
-Whitleblowign
-
-
-
-
-some kind of divider, maybe a conclusion or summary of sorts
-
-### Additional Resources
-#### topic: maybe include some of my favorite documentaries and readings from the semester, and other sources
-link
-
-link
+[Click here for comments, corrections, and suggestions](https://docs.google.com/forms/d/e/1FAIpQLSck2fKGY37B7ur95TMAc0kRx3DGAzuVmAwTcKsbt2Ym7BexuQ/viewform?usp=sf_link)
