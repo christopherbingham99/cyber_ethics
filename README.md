@@ -3,7 +3,7 @@ A blog post for BYU Cybersecurity Ethics, Law, and Leadership by Christopher Bin
 
 ![blahblahblah by Bing Image Creator](imgs/pcinspaceC.jpg)
 
-overall intro blahblahblahblah
+overall intro blahblahblahblah. Come back to see more topics added over time. These might not fit catergories perfectly, for example, an individual can do a cyber-physical and a government can do a ransomware.
 
 ## Companies
 intro blahblahblah
@@ -67,7 +67,25 @@ Learn more:
 ## Threat Actors (Non-governmental)
 intro blah blah blah
 
-### phishing + human engineering
+### Ransomware
+
+Ransomware is a type of cyber-attack that blocks access to the targeted computer system, usually via encryption, until a ransom is payed. Ransomware can target governments, large corporations, small businesses, and even individuals. One example of ransomware is called "BitPaymer." Once a computer is infected with BitPaymer, everything is encrypted, leaving the system and all data unnaccessible. A bitcoin payment is then demanded in exchange for the system to be released.
+
+We can all agree that deploying ransomware is unethical, but what considerations should be made when deciding what to do in the face of a ransomware attack? Paying a ransom of any kind sets a dangerous precedent. The more ransoms that are paid, the more lucrative it becomes for attackers. In addition, you have no gaurentee that they will release your data, or that you or your organization won't be at increased risk for future attacks now that you are known as having paid once before.
+
+As an individual, it is likely that you can just ignore a ransomware attack and wipe your PC clean, but what about companies, governments, and utilies? Fortunatley, proper backups can minimize the need to pay a ransom, but even the most prepared organization may find themselves in a situation where their services are disrupted or even halted entirely by ransomware. When deciding wether or not to pay a ransom, one might consider the following:
+* What effect will denying the ransom have on you, your users, or you constituants? For example, a hospital may decide to pay a ransom, but a retail store may not.
+* Based on your preparedness and response capabilities, how long and how much would it cost to retore operations without paying the ransom?
+* What negative effects might there be if you decide to pay the ransom?
+* Are there related legal implications on your decision?
+
+Learn more:
+
+[Ransomware Payment: To Pay, or Not to Pay? That Is the Question](https://www.spiceworks.com/it-security/cyber-risk-management/articles/ransomware-payment-to-pay-not-to-pay/)
+
+[Cyberattack Forces a Shutdown of a Top U.S. Pipeline](https://www.nytimes.com/2021/05/08/us/politics/cyberattack-colonial-pipeline.html)
+
+### phishing + human engineering - where does ethics coem into this
 
 ### scams? (maybe part of above)
 
@@ -75,11 +93,7 @@ intro blah blah blah
 
 ### password strength
 
-### Ransomware  - ethics of paying or not
 
-Also for individuals and small comanies
-
-[Cyberattack Forces a Shutdown of a Top U.S. Pipeline](https://www.nytimes.com/2021/05/08/us/politics/cyberattack-colonial-pipeline.html)
 
 ### Malware
 
@@ -93,8 +107,28 @@ Also for individuals and small comanies
 ## You
 intro
 
-### topic
+### Piracy
 
+Digital piracy is the act of using, duplicating, or distributing digital content that is protected by copyright. This includes music, videos, books, video games, 
+
+
+Illegal, but what about ethical? - the negative impact. Open sour e/ free/ ad alternatives today
+
+use/vs distribute
+
+instances like game boxes sold with roms on legit sites like amazon
+
+[Digital Piracy: Interpol](https://www.interpol.int/en/Crimes/Illicit-goods/Shop-safely/Digital-piracy)
+
+
+
+
+
+
+At school + work - IP and plagurism
+forums/social media - President Nelson's suggested principles 
+
+Whitleblowign
 
 
 
