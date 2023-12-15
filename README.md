@@ -1,7 +1,7 @@
 # Ethical Behavior in Cyberspace: Companies, Governments, Hackers, and YOU
 A blog post for BYU Cybersecurity Ethics, Law, and Leadership by Christopher Bingham
 
-![blahblahblah by Bing Image Creator](imgs/pcinspaceC.jpg)
+![PC in space by Bing Image Creator](imgs/pcinspaceC.jpg)
 
 overall intro blahblahblahblah. Come back to see more topics added over time. These might not fit catergories perfectly, for example, an individual can do a cyber-physical and a government can do a ransomware.
 
@@ -109,7 +109,7 @@ intro
 
 ### Piracy
 
-Digital piracy is the act of using, duplicating, or distributing digital content that is protected by copyright. This includes music, videos, books, video games, 
+Digital piracy is the act of using, duplicating, or distributing digital content that is protected by copyright law. This includes music, videos, books, video games, phone apps, PC programs, etc. In most jurisdictions, including the United States, digital piracy is expressly illegal.
 
 
 Illegal, but what about ethical? - the negative impact. Open sour e/ free/ ad alternatives today
@@ -117,6 +117,8 @@ Illegal, but what about ethical? - the negative impact. Open sour e/ free/ ad al
 use/vs distribute
 
 instances like game boxes sold with roms on legit sites like amazon
+
+if tytou dont like something, consider taking action to change the law instead of breaking it
 
 [Digital Piracy: Interpol](https://www.interpol.int/en/Crimes/Illicit-goods/Shop-safely/Digital-piracy)
 
