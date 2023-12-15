@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Ethical Behavior in Cyberspace: Companies, Governments, Hackers, and YOU
 A blog post for BYU Cybersecurity Ethics, Law, and Leadership by Christopher Bingham
 
@@ -110,6 +112,12 @@ intro
 ### Piracy
 
 Digital piracy is the act of using, duplicating, or distributing digital content that is protected by copyright law. This includes music, videos, books, video games, phone apps, PC programs, etc. In most jurisdictions, including the United States, digital piracy is expressly illegal.
+
+While piracy is illegal, there is still a seperate discussion of ethics to be had. There are many people who would never steal physical items, but justify digital piracy. A college student may decide to watch movies illegally, becasue they can't afford to pay for them. A gamer may pirate retro games, because "they're no longer being sold." Ethics, however, is not about self-justification. Piracy has real world negative effects on the owners and creators of digital content, paying consumers, and entire industries and economies. 
+
+
+
+SEE SECTION ON SELF JUSTIDICATION
 
 
 Illegal, but what about ethical? - the negative impact. Open sour e/ free/ ad alternatives today
